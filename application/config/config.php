@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://freefastnet.com/';
+
+/*puedes poder la carpeta del directorio que ejecuta un servidor*/
+$config['base_url'] = 'http://localhost/grifocumbrera/';
 
 /*
 |--------------------------------------------------------------------------
